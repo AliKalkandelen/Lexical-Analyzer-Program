@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1413605980 source:c:\lexical analyzer\tokens.cpp
+
+1413607252 source:c:\lexical analyzer\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<fstream>
+
